@@ -1,0 +1,43 @@
+#header {
+    background: red;
+    height: 200px;
+    margin-bottom: 10px;
+}
+#content {
+    background: blue;
+    min-height: 1000px;
+  
+}
+#inner-header {
+    text-align: center;
+}
+
+#innet-content {
+    
+}
+
+#footer {
+    background: green;
+    height: 200px;
+    margin-top: 10px;
+}
+
+h4 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+
+h3 {
+    font-family: 'Fasthand', cursive;
+    @import url('https://fonts.googleapis.com/css2? family= Fasthand & display=swap');
+}
+
+.container {
+    width: 1024px;
+    margin: auto;
+    background: rgba(0,0,0,0.2)
+}
+#draggable { width: 150px; height: 150px; padding: 0.5em; }
+
+.plagins1 {
+    margin: auto;
+}
